@@ -1,1 +1,1 @@
-#Todo App Using Django and HTMX
+# Todo App Using Django and HTMX
